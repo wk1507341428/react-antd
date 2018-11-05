@@ -1,0 +1,14 @@
+.messageBoard{
+  height: 100%;
+  background: url('../../../assets/images/bg.gif');
+  padding: 0px 40px;
+  min-height: 457px;
+  .content{
+    height: 100%;
+    background: url('../../../assets/images/content_bg.jpg') no-repeat;
+    background-size: cover;
+    max-width: 1037px;
+    min-height: 457px;
+    position: relative;
+  }
+}
